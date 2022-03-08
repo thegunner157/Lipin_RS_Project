@@ -1,1 +1,1 @@
-# Lipin_RS_Project
+# RecommenderSystem_Project
